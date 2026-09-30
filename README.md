@@ -19,6 +19,6 @@ Use the GitHub repository `ArthurSSS9966/arthursss9966.github.io`. Publish these
 
 ## Content decisions
 
-User-confirmed corrections supersede older CV fields: PhD completed August 2026; Blackrock internship ended August 2022; USC Lee Lab role remains current. BiGA is described as macaque MC_Maze regression, not human sEEG classification. Inconsistent performance metrics and unverified production deployment claims are omitted. Contact is through LinkedIn and GitHub; no phone number or email is published.
+User-confirmed corrections supersede older CV fields: PhD completed August 2026; Blackrock internship ended August 2022; USC Lee Lab role remains current. BiGA is described as macaque MC_Maze regression, not human sEEG classification. Inconsistent performance metrics and unverified production deployment claims are omitted. Synaptrix and Blackrock descriptions were checked against the original project code and git history (2026-09-30) and describe only Arthur's own contributions. Contact is through LinkedIn and GitHub; no phone number or email is published.
 
 Only the selected Scientific Reports article currently has a verified direct publisher link. Other citations are transcribed from the supplied CV; additional links can be added after verification.
