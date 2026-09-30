@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+.impeccable.md
+preview-*.png
+preview-*.html
+__pycache__/
